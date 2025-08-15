@@ -1,6 +1,6 @@
 {
   "name": "JAWAD-MD",
-  "version": "7.0.0",
+  "version": "3.0.0",
   "description": "JAWAD-MD, a Multi Device Whatsapp Bot to Enhance Whatsapp Communication Experience",
   "main": "./index.js",
   "type": "commonjs",
