@@ -22,7 +22,7 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "PRINCE"
+      "value": "JawadTechX"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here ie 92xxxxx",
