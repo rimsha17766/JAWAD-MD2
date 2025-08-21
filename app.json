@@ -24,6 +24,11 @@
       "required": true,
       "value": "JawadTechX"
     },
+    "BOT_PIC": {
+      "description": "add a pic url for bot dp",
+      "required": false,
+      "value": "https://files.catbox.moe/pf270b.jpg"
+    },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here ie 92xxxxx",
       "required": true,
