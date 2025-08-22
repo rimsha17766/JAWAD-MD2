@@ -91,7 +91,7 @@
     <p style="color:#ffffff; font-family:sans-serif; margin-bottom:8px;">
       🔗 <strong>Pairing Server 01</strong>
     </p>
-    <a href="https://jawadik-pair.onrender.com/"target="_blank">
+    <a href="https://khanxmd-pair.onrender.com"target="_blank">
       <img src="https://img.shields.io/badge/PAIR_CODE_1-F0FF00?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0d0d0d"/>
     </a>
   </div>
