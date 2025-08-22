@@ -6,7 +6,7 @@ const fs = require('fs'),
 
 //add your session id
 
-global.session = "https://khanmd-pair.onrender.com"; 
+global.session = "https://khanxmd-pair.onrender.com"; 
  
  
 module.exports = {
